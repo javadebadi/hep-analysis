@@ -1,8 +1,25 @@
-from sqlalchemy import (create_engine, text, Table, Column, Integer, String, 
-                                       MetaData, ForeignKey, insert, select)
-from sqlalchemy.orm import declarative_base, relationship
+from sqlalchemy import (
+    create_engine, 
+    text, 
+    Table, 
+    Column, 
+    Integer, 
+    String, 
+    MetaData,
+    ForeignKey,
+    insert, 
+    select
+)
+from sqlalchemy.orm import (
+    declarative_base, 
+    relationship
+)
 
-engine = create_engine("sqlite+pysqlite:///:memory:", echo=True)
+from setting import (
+    DB_CONNECTION_STRING
+)
+
+engine = create_engine(DB_CONNECTION_STRING, echo=True)
 
 conn = engine.connect() 
 
