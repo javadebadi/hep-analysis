@@ -41,7 +41,7 @@ Field_table = Table(
         "Fields",
     meta_HEP,
     Column('field_id', Integer, primary_key=True),
-    Column('field_title', String(30))
+    Column('field_title', String(30)),
     )
 
 
@@ -52,14 +52,14 @@ University_table = Table(
     Column('university_title', String(30)),
     Column('address', String(100)),
     Column('country_id', ForeignKey('Country_table.country_id'), nullable=False),
-    Column('region_id', ForeignKey('Country_table.region_id'), nullable=False)
+    Column('region_id', ForeignKey('Country_table.region_id'), nullable=False),
     )
 
 Rank_table=Table(
         "Rank",
     meta_HEP,
     Column('rank_id', Integer, primary_key=True),
-    Column('rank_title', String(30),nullable=False)
+    Column('rank_title', String(30),nullable=False),
     )
 
 Country_table = Table(
@@ -68,14 +68,14 @@ Country_table = Table(
     Column('country_id', Integer, primary_key=True),
     Column('country_title', String(30),nullable=False),
     Column('region_id', Integer, nullable=False),
-    Column('region_title', String(30), nullable=False)
+    Column('region_title', String(30), nullable=False),
     )
 
 JobFileds_table = Table(
         "Job_Fileds",
     meta_HEP,
     Column('job_id', ForeignKey('Job_table.job_id'), primary_key=True),
-    Column('field_id', ForeignKey('Field_table.field_id'), primary_key=True)
+    Column('field_id', ForeignKey('Field_table.field_id'), primary_key=True),
 )
 
 
@@ -135,5 +135,5 @@ class JobFileds(Base):
 
 
 
-if __name__ == '__mane__':
+if __name__ == '__main__':
     Base.metadata.create_all(engine)
