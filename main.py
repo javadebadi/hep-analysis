@@ -15,7 +15,7 @@ from sqlalchemy.orm import (
     relationship
 )
 
-from setting import (
+from hep_analysis.settings import (
     DB_CONNECTION_STRING
 )
 
