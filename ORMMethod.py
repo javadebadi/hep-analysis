@@ -20,7 +20,7 @@ from hep_analysis.settings import (
     DB_CONNECTION_STRING
 )
 
-from main import (
+from CoreMain import (
     Job_table,
     Field_table,
     Rank_table,
@@ -86,4 +86,5 @@ class JobFileds(Base):
 
     def __repr__(self):
          return f"Fields({self.field_title!r})"
+
 
