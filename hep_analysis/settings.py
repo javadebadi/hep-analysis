@@ -12,3 +12,4 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 DB_PATH =  os.path.join(BASE_DIR, 'db.sqlite3')
 DB_CONNECTION_STRING  = "sqlite:///" + DB_PATH
 
+print(BASE_DIR)
