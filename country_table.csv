@@ -1,238 +1,238 @@
-,COUNTRY_x,COUNTRY CODE,ISO CODES,POPULATION,AREA KM2,GDP $USD,ISO2,ISO3,No,COUNTRY_y,M49 Code,Region 1,Region 2,Continent
-0,Afghanistan,93,AF / AFG,29121286,647500,20.65 Billion,AF ,AFG,1,Afghanistan,4,Southern Asia,,Asia
-1,Albania,355,AL / ALB,2986952,28748,12.8 Billion,AL ,ALB,3,Albania,8,Southern Europe,,Europe
-2,Algeria,213,DZ / DZA,34586184,2381740,215.7 Billion,DZ ,DZA,4,Algeria,12,Northern Africa,,Africa
-3,American Samoa,1-684,AS / ASM,57881,199,462.2 Million,AS ,ASM,5,American Samoa,16,Polynesia,,Oceania
-4,Andorra,376,AD / AND,84000,468,4.8 Billion,AD ,AND,6,Andorra,20,Southern Europe,,Europe
-5,Angola,244,AO / AGO,13068161,1246700,124 Billion,AO ,AGO,7,Angola,24,Middle Africa,Sub-Saharan Africa,Africa
-6,Anguilla,1-264,AI / AIA,13254,102,175.4 Million,AI ,AIA,8,Anguilla,660,Caribbean,Latin America and the Caribbean,North America
-7,Antarctica,672,AQ / ATA,0,14000000,,AQ ,ATA,9,Antarctica,10,Antarctica,,Antarctica
-8,Antigua and Barbuda,1-268,AG / ATG,86754,443,1.22 Billion,AG ,ATG,10,Antigua and Barbuda,28,Caribbean,Latin America and the Caribbean,North America
-9,Argentina,54,AR / ARG,41343201,2766890,484.6 Billion,AR ,ARG,11,Argentina,32,South America,Latin America and the Caribbean,South America
-10,Armenia,374,AM / ARM,2968000,29800,10.44 Billion,AM ,ARM,12,Armenia,51,Western Asia,,Asia
-11,Aruba,297,AW / ABW,71566,193,2.516 Billion,AW ,ABW,13,Aruba,533,Caribbean,Latin America and the Caribbean,North America
-12,Australia,61,AU / AUS,21515754,7686850,1.488 Trillion,AU ,AUS,14,Australia,36,Australia and New Zealand,,Oceania
-13,Austria,43,AT / AUT,8205000,83858,417.9 Billion,AT ,AUT,15,Austria,40,Western Europe,,Europe
-14,Azerbaijan,994,AZ / AZE,8303512,86600,76.01 Billion,AZ ,AZE,16,Azerbaijan,31,Western Asia,,Asia
-15,Bahamas,1-242,BS / BHS,301790,13940,8.373 Billion,BS ,BHS,17,Bahamas,44,Caribbean,Latin America and the Caribbean,North America
-16,Bahrain,973,BH / BHR,738004,665,28.36 Billion,BH ,BHR,18,Bahrain,48,Western Asia,,Asia
-17,Bangladesh,880,BD / BGD,156118464,144000,140.2 Billion,BD ,BGD,19,Bangladesh,50,Southern Asia,,Asia
-18,Barbados,1-246,BB / BRB,285653,431,4.262 Billion,BB ,BRB,20,Barbados,52,Caribbean,Latin America and the Caribbean,North America
-19,Belarus,375,BY / BLR,9685000,207600,69.24 Billion,BY ,BLR,21,Belarus,112,Eastern Europe,,Europe
-20,Belgium,32,BE / BEL,10403000,30510,507.4 Billion,BE ,BEL,22,Belgium,56,Western Europe,,Europe
-21,Belize,501,BZ / BLZ,314522,22966,1.637 Billion,BZ ,BLZ,23,Belize,84,Central America,Latin America and the Caribbean,North America
-22,Benin,229,BJ / BEN,9056010,112620,8.359 Billion,BJ ,BEN,24,Benin,204,Western Africa,Sub-Saharan Africa,Africa
-23,Bermuda,1-441,BM / BMU,65365,53,5.6 Billion,BM ,BMU,25,Bermuda,60,Northern America,,North America
-24,Bhutan,975,BT / BTN,699847,47000,2.133 Billion,BT ,BTN,26,Bhutan,64,Southern Asia,,Asia
-25,Bolivia,591,BO / BOL,9947418,1098580,30.79 Billion,BO ,BOL,27,Bolivia (Plurinational State of),68,South America,Latin America and the Caribbean,South America
-26,Bosnia and Herzegovina,387,BA / BIH,4590000,51129,18.87 Billion,BA ,BIH,29,Bosnia and Herzegovina,70,Southern Europe,,Europe
-27,Botswana,267,BW / BWA,2029307,600370,15.53 Billion,BW ,BWA,30,Botswana,72,Southern Africa,Sub-Saharan Africa,Africa
-28,Brazil,55,BR / BRA,201103330,8511965,2.19 Trillion,BR ,BRA,32,Brazil,76,South America,Latin America and the Caribbean,South America
-29,British Indian Ocean Territory,246,IO / IOT,4000,60,,IO ,IOT,33,British Indian Ocean Territory,86,Eastern Africa,Sub-Saharan Africa,Africa
-30,British Virgin Islands,1-284,VG / VGB,21730,153,1.095 Billion,VG ,VGB,34,British Virgin Islands,92,Caribbean,Latin America and the Caribbean,North America
-31,Brunei,673,BN / BRN,395027,5770,16.56 Billion,BN ,BRN,35,Brunei Darussalam,96,South-eastern Asia,,Asia
-32,Bulgaria,359,BG / BGR,7148785,110910,53.7 Billion,BG ,BGR,36,Bulgaria,100,Eastern Europe,,Europe
-33,Burkina Faso,226,BF / BFA,16241811,274200,12.13 Billion,BF ,BFA,37,Burkina Faso,854,Western Africa,Sub-Saharan Africa,Africa
-34,Burundi,257,BI / BDI,9863117,27830,2.676 Billion,BI ,BDI,38,Burundi,108,Eastern Africa,Sub-Saharan Africa,Africa
-35,Cambodia,855,KH / KHM,14453680,181040,15.64 Billion,KH ,KHM,40,Cambodia,116,South-eastern Asia,,Asia
-36,Cameroon,237,CM / CMR,19294149,475440,27.88 Billion,CM ,CMR,41,Cameroon,120,Middle Africa,Sub-Saharan Africa,Africa
-37,Canada,1,CA / CAN,33679000,9984670,1.825 Trillion,CA ,CAN,42,Canada,124,Northern America,,North America
-38,Cape Verde,238,CV / CPV,508659,4033,1.955 Billion,CV ,CPV,39,Cabo Verde,132,Western Africa,Sub-Saharan Africa,Africa
-39,Cayman Islands,1-345,KY / CYM,44270,262,2.25 Billion,KY ,CYM,43,Cayman Islands,136,Caribbean,Latin America and the Caribbean,North America
-40,Central African Republic,236,CF / CAF,4844927,622984,2.05 Billion,CF ,CAF,44,Central African Republic,140,Middle Africa,Sub-Saharan Africa,Africa
-41,Chad,235,TD / TCD,10543464,1284000,13.59 Billion,TD ,TCD,45,Chad,148,Middle Africa,Sub-Saharan Africa,Africa
-42,Chile,56,CL / CHL,16746491,756950,281.7 Billion,CL ,CHL,46,Chile,152,South America,Latin America and the Caribbean,South America
-43,China,86,CN / CHN,1330044000,9596960,9.33 Trillion,CN ,CHN,47,China,156,Eastern Asia,,Asia
-44,Christmas Island,61,CX / CXR,1500,135,,CX ,CXR,50,Christmas Island,162,Australia and New Zealand,,Oceania
-45,Cocos Islands,61,CC / CCK,628,14,,CC ,CCK,51,Cocos (Keeling) Islands,166,Australia and New Zealand,,Oceania
-46,Colombia,57,CO / COL,47790000,1138910,369.2 Billion,CO ,COL,52,Colombia,170,South America,Latin America and the Caribbean,South America
-47,Comoros,269,KM / COM,773407,2170,658 Million,KM ,COM,53,Comoros,174,Eastern Africa,Sub-Saharan Africa,Africa
-48,Cook Islands,682,CK / COK,21388,240,183.2 Million,CK ,COK,55,Cook Islands,184,Polynesia,,Oceania
-49,Costa Rica,506,CR / CRI,4516220,51100,48.51 Billion,CR ,CRI,56,Costa Rica,188,Central America,Latin America and the Caribbean,North America
-50,Croatia,385,HR / HRV,4491000,56542,59.14 Billion,HR ,HRV,58,Croatia,191,Southern Europe,,Europe
-51,Cuba,53,CU / CUB,11423000,110860,72.3 Billion,CU ,CUB,59,Cuba,192,Caribbean,Latin America and the Caribbean,North America
-52,Curacao,599,CW / CUW,141766,444,5.6 Billion,CW ,CUW,60,Curaçao,531,Caribbean,Latin America and the Caribbean,North America
-53,Cyprus,357,CY / CYP,1102677,9250,21.78 Billion,CY ,CYP,61,Cyprus,196,Western Asia,,Asia
-54,Czech Republic,420,CZ / CZE,10476000,78866,194.8 Billion,CZ ,CZE,62,Czechia,203,Eastern Europe,,Europe
-55,Democratic Republic of the Congo,243,CD / COD,70916439,2345410,18.56 Billion,CD ,COD,64,Democratic Republic of the Congo,180,Middle Africa,Sub-Saharan Africa,Africa
-56,Denmark,45,DK / DNK,5484000,43094,324.3 Billion,DK ,DNK,65,Denmark,208,Northern Europe,,Europe
-57,Djibouti,253,DJ / DJI,740528,23000,1.459 Billion,DJ ,DJI,66,Djibouti,262,Eastern Africa,Sub-Saharan Africa,Africa
-58,Dominica,1-767,DM / DMA,72813,754,495 Million,DM ,DMA,67,Dominica,212,Caribbean,Latin America and the Caribbean,North America
-59,Dominican Republic,"1-809, 1-829, 1-849",DO / DOM,9823821,48730,59.27 Billion,DO ,DOM,68,Dominican Republic,214,Caribbean,Latin America and the Caribbean,North America
-60,East Timor,670,TL / TLS,1154625,15007,6.129 Billion,TL ,TLS,222,Timor-Leste,626,South-eastern Asia,,Asia
-61,Ecuador,593,EC / ECU,14790608,283560,91.41 Billion,EC ,ECU,69,Ecuador,218,South America,Latin America and the Caribbean,South America
-62,Egypt,20,EG / EGY,80471869,1001450,262 Billion,EG ,EGY,70,Egypt,818,Northern Africa,,Africa
-63,El Salvador,503,SV / SLV,6052064,21040,24.67 Billion,SV ,SLV,71,El Salvador,222,Central America,Latin America and the Caribbean,North America
-64,Equatorial Guinea,240,GQ / GNQ,1014999,28051,17.08 Billion,GQ ,GNQ,72,Equatorial Guinea,226,Middle Africa,Sub-Saharan Africa,Africa
-65,Eritrea,291,ER / ERI,5792984,121320,3.438 Billion,ER ,ERI,73,Eritrea,232,Eastern Africa,Sub-Saharan Africa,Africa
-66,Estonia,372,EE / EST,1291170,45226,24.28 Billion,EE ,EST,74,Estonia,233,Northern Europe,,Europe
-67,Ethiopia,251,ET / ETH,88013491,1127127,47.34 Billion,ET ,ETH,76,Ethiopia,231,Eastern Africa,Sub-Saharan Africa,Africa
-68,Falkland Islands,500,FK / FLK,2638,12173,164.5 Million,FK ,FLK,77,Falkland Islands (Malvinas),238,South America,Latin America and the Caribbean,South America
-69,Faroe Islands,298,FO / FRO,48228,1399,2.32 Billion,FO ,FRO,78,Faroe Islands,234,Northern Europe,,Europe
-70,Fiji,679,FJ / FJI,875983,18270,4.218 Billion,FJ ,FJI,79,Fiji,242,Melanesia,,Oceania
-71,Finland,358,FI / FIN,5244000,337030,259.6 Billion,FI ,FIN,80,Finland,246,Northern Europe,,Europe
-72,France,33,FR / FRA,64768389,547030,2.739 Trillion,FR ,FRA,81,France,250,Western Europe,,Europe
-73,French Polynesia,689,PF / PYF,270485,4167,5.65 Billion,PF ,PYF,83,French Polynesia,258,Polynesia,,Oceania
-74,Gabon,241,GA / GAB,1545255,267667,19.97 Billion,GA ,GAB,85,Gabon,266,Middle Africa,Sub-Saharan Africa,Africa
-75,Gambia,220,GM / GMB,1593256,11300,896 Million,GM ,GMB,86,Gambia,270,Western Africa,Sub-Saharan Africa,Africa
-76,Georgia,995,GE / GEO,4630000,69700,15.95 Billion,GE ,GEO,87,Georgia,268,Western Asia,,Asia
-77,Germany,49,DE / DEU,81802257,357021,3.593 Trillion,DE ,DEU,88,Germany,276,Western Europe,,Europe
-78,Ghana,233,GH / GHA,24339838,239460,45.55 Billion,GH ,GHA,89,Ghana,288,Western Africa,Sub-Saharan Africa,Africa
-79,Gibraltar,350,GI / GIB,27884,7,1.106 Billion,GI ,GIB,90,Gibraltar,292,Southern Europe,,Europe
-80,Greece,30,GR / GRC,11000000,131940,243.3 Billion,GR ,GRC,91,Greece,300,Southern Europe,,Europe
-81,Greenland,299,GL / GRL,56375,2166086,2.16 Billion,GL ,GRL,92,Greenland,304,Northern America,,North America
-82,Grenada,1-473,GD / GRD,107818,344,811 Million,GD ,GRD,93,Grenada,308,Caribbean,Latin America and the Caribbean,North America
-83,Guam,1-671,GU / GUM,159358,549,4.6 Billion,GU ,GUM,95,Guam,316,Micronesia,,Oceania
-84,Guatemala,502,GT / GTM,13550440,108890,53.9 Billion,GT ,GTM,96,Guatemala,320,Central America,Latin America and the Caribbean,North America
-85,Guernsey,44-1481,GG / GGY,65228,78,2.742 Billion,GG ,GGY,97,Guernsey,831,Northern Europe,Channel Islands,Europe
-86,Guinea,224,GN / GIN,10324025,245857,6.544 Billion,GN ,GIN,98,Guinea,324,Western Africa,Sub-Saharan Africa,Africa
-87,Guinea-Bissau,245,GW / GNB,1565126,36120,880 Million,GW ,GNB,99,Guinea-Bissau,624,Western Africa,Sub-Saharan Africa,Africa
-88,Guyana,592,GY / GUY,748486,214970,3.02 Billion,GY ,GUY,100,Guyana,328,South America,Latin America and the Caribbean,South America
-89,Haiti,509,HT / HTI,9648924,27750,8.287 Billion,HT ,HTI,101,Haiti,332,Caribbean,Latin America and the Caribbean,North America
-90,Honduras,504,HN / HND,7989415,112090,18.88 Billion,HN ,HND,104,Honduras,340,Central America,Latin America and the Caribbean,North America
-91,Hong Kong,852,HK / HKG,6898686,1092,272.1 Billion,HK ,HKG,48,"China, Hong Kong Special Administrative Region",344,Eastern Asia,,Asia
-92,Hungary,36,HU / HUN,9982000,93030,130.6 Billion,HU ,HUN,105,Hungary,348,Eastern Europe,,Europe
-93,Iceland,354,IS / ISL,308910,103000,14.59 Billion,IS ,ISL,106,Iceland,352,Northern Europe,,Europe
-94,India,91,IN / IND,1173108018,3287590,1.67 Trillion,IN ,IND,107,India,356,Southern Asia,,Asia
-95,Indonesia,62,ID / IDN,242968342,1919440,867.5 Billion,ID ,IDN,108,Indonesia,360,South-eastern Asia,,Asia
-96,Iran,98,IR / IRN,76923300,1648000,411.9 Billion,IR ,IRN,109,Iran (Islamic Republic of),364,Southern Asia,,Asia
-97,Iraq,964,IQ / IRQ,29671605,437072,221.8 Billion,IQ ,IRQ,110,Iraq,368,Western Asia,,Asia
-98,Ireland,353,IE / IRL,4622917,70280,220.9 Billion,IE ,IRL,111,Ireland,372,Northern Europe,,Europe
-99,Isle of Man,44-1624,IM / IMN,75049,572,4.076 Billion,IM ,IMN,112,Isle of Man,833,Northern Europe,,Europe
-100,Israel,972,IL / ISR,7353985,20770,272.7 Billion,IL ,ISR,113,Israel,376,Western Asia,,Asia
-101,Italy,39,IT / ITA,60340328,301230,2.068 Trillion,IT ,ITA,114,Italy,380,Southern Europe,,Europe
-102,Ivory Coast,225,CI / CIV,21058798,322460,28.28 Billion,CI ,CIV,57,Côte d’Ivoire,384,Western Africa,Sub-Saharan Africa,Africa
-103,Jamaica,1-876,JM / JAM,2847232,10991,14.39 Billion,JM ,JAM,115,Jamaica,388,Caribbean,Latin America and the Caribbean,North America
-104,Japan,81,JP / JPN,127288000,377835,5.007 Trillion,JP ,JPN,116,Japan,392,Eastern Asia,,Asia
-105,Jersey,44-1534,JE / JEY,90812,116,5.1 Billion,JE ,JEY,117,Jersey,832,Northern Europe,Channel Islands,Europe
-106,Jordan,962,JO / JOR,6407085,92300,34.08 Billion,JO ,JOR,118,Jordan,400,Western Asia,,Asia
-107,Kazakhstan,7,KZ / KAZ,15340000,2717300,224.9 Billion,KZ ,KAZ,119,Kazakhstan,398,Central Asia,,Asia
-108,Kenya,254,KE / KEN,40046566,582650,45.31 Billion,KE ,KEN,120,Kenya,404,Eastern Africa,Sub-Saharan Africa,Africa
-109,Kiribati,686,KI / KIR,92533,811,173 Million,KI ,KIR,121,Kiribati,296,Micronesia,,Oceania
-110,Kuwait,965,KW / KWT,2789132,17820,179.5 Billion,KW ,KWT,122,Kuwait,414,Western Asia,,Asia
-111,Kyrgyzstan,996,KG / KGZ,5508626,198500,7.234 Billion,KG ,KGZ,123,Kyrgyzstan,417,Central Asia,,Asia
-112,Laos,856,LA / LAO,6368162,236800,10.1 Billion,LA ,LAO,124,Lao People's Democratic Republic,418,South-eastern Asia,,Asia
-113,Latvia,371,LV / LVA,2217969,64589,30.38 Billion,LV ,LVA,125,Latvia,428,Northern Europe,,Europe
-114,Lebanon,961,LB / LBN,4125247,10400,43.49 Billion,LB ,LBN,126,Lebanon,422,Western Asia,,Asia
-115,Lesotho,266,LS / LSO,1919552,30355,2.457 Billion,LS ,LSO,127,Lesotho,426,Southern Africa,Sub-Saharan Africa,Africa
-116,Liberia,231,LR / LBR,3685076,111370,1.977 Billion,LR ,LBR,128,Liberia,430,Western Africa,Sub-Saharan Africa,Africa
-117,Libya,218,LY / LBY,6461454,1759540,70.92 Billion,LY ,LBY,129,Libya,434,Northern Africa,,Africa
-118,Liechtenstein,423,LI / LIE,35000,160,5.113 Billion,LI ,LIE,130,Liechtenstein,438,Western Europe,,Europe
-119,Lithuania,370,LT / LTU,2944459,65200,46.71 Billion,LT ,LTU,131,Lithuania,440,Northern Europe,,Europe
-120,Luxembourg,352,LU / LUX,497538,2586,60.54 Billion,LU ,LUX,132,Luxembourg,442,Western Europe,,Europe
-121,Macau,853,MO / MAC,449198,254,51.68 Billion,MO ,MAC,49,"China, Macao Special Administrative Region",446,Eastern Asia,,Asia
-122,Macedonia,389,MK / MKD,2062294,25333,10.65 Billion,MK ,MKD,164,North Macedonia,807,Southern Europe,,Europe
-123,Madagascar,261,MG / MDG,21281844,587040,10.53 Billion,MG ,MDG,133,Madagascar,450,Eastern Africa,Sub-Saharan Africa,Africa
-124,Malawi,265,MW / MWI,15447500,118480,3.683 Billion,MW ,MWI,134,Malawi,454,Eastern Africa,Sub-Saharan Africa,Africa
-125,Malaysia,60,MY / MYS,28274729,329750,312.4 Billion,MY ,MYS,135,Malaysia,458,South-eastern Asia,,Asia
-126,Maldives,960,MV / MDV,395650,300,2.27 Billion,MV ,MDV,136,Maldives,462,Southern Asia,,Asia
-127,Mali,223,ML / MLI,13796354,1240000,11.37 Billion,ML ,MLI,137,Mali,466,Western Africa,Sub-Saharan Africa,Africa
-128,Malta,356,MT / MLT,403000,316,9.541 Billion,MT ,MLT,138,Malta,470,Southern Europe,,Europe
-129,Marshall Islands,692,MH / MHL,65859,181,193 Million,MH ,MHL,139,Marshall Islands,584,Micronesia,,Oceania
-130,Mauritania,222,MR / MRT,3205060,1030700,4.183 Billion,MR ,MRT,141,Mauritania,478,Western Africa,Sub-Saharan Africa,Africa
-131,Mauritius,230,MU / MUS,1294104,2040,11.9 Billion,MU ,MUS,142,Mauritius,480,Eastern Africa,Sub-Saharan Africa,Africa
-132,Mayotte,262,YT / MYT,159042,374,,YT ,MYT,143,Mayotte,175,Eastern Africa,Sub-Saharan Africa,Africa
-133,Mexico,52,MX / MEX,112468855,1972550,1.327 Trillion,MX ,MEX,144,Mexico,484,Central America,Latin America and the Caribbean,North America
-134,Micronesia,691,FM / FSM,107708,702,339 Million,FM ,FSM,145,Micronesia (Federated States of),583,Micronesia,,Oceania
-135,Moldova,373,MD / MDA,4324000,33843,7.932 Billion,MD ,MDA,181,Republic of Moldova,498,Eastern Europe,,Europe
-136,Monaco,377,MC / MCO,32965,2,5.748 Billion,MC ,MCO,146,Monaco,492,Western Europe,,Europe
-137,Mongolia,976,MN / MNG,3086918,1565000,11.14 Billion,MN ,MNG,147,Mongolia,496,Eastern Asia,,Asia
-138,Montenegro,382,ME / MNE,666730,14026,4.518 Billion,ME ,MNE,148,Montenegro,499,Southern Europe,,Europe
-139,Montserrat,1-664,MS / MSR,9341,102,,MS ,MSR,149,Montserrat,500,Caribbean,Latin America and the Caribbean,North America
-140,Morocco,212,MA / MAR,31627428,446550,104.8 Billion,MA ,MAR,150,Morocco,504,Northern Africa,,Africa
-141,Mozambique,258,MZ / MOZ,22061451,801590,14.67 Billion,MZ ,MOZ,151,Mozambique,508,Eastern Africa,Sub-Saharan Africa,Africa
-142,Myanmar,95,MM / MMR,53414374,678500,59.43 Billion,MM ,MMR,152,Myanmar,104,South-eastern Asia,,Asia
-143,Namibia,264,NA / NAM,2128471,825418,12.3 Billion,NA ,NAM,153,Namibia,516,Southern Africa,Sub-Saharan Africa,Africa
-144,Nauru,674,NR / NRU,10065,21,,NR ,NRU,154,Nauru,520,Micronesia,,Oceania
-145,Nepal,977,NP / NPL,28951852,140800,19.34 Billion,NP ,NPL,155,Nepal,524,Southern Asia,,Asia
-146,Netherlands,31,NL / NLD,16645000,41526,722.3 Billion,NL ,NLD,156,Netherlands,528,Western Europe,,Europe
-147,New Caledonia,687,NC / NCL,216494,19060,9.28 Billion,NC ,NCL,157,New Caledonia,540,Melanesia,,Oceania
-148,New Zealand,64,NZ / NZL,4252277,268680,181.1 Billion,NZ ,NZL,158,New Zealand,554,Australia and New Zealand,,Oceania
-149,Nicaragua,505,NI / NIC,5995928,129494,11.26 Billion,NI ,NIC,159,Nicaragua,558,Central America,Latin America and the Caribbean,North America
-150,Niger,227,NE / NER,15878271,1267000,7.304 Billion,NE ,NER,160,Niger,562,Western Africa,Sub-Saharan Africa,Africa
-151,Nigeria,234,NG / NGA,154000000,923768,502 Billion,NG ,NGA,161,Nigeria,566,Western Africa,Sub-Saharan Africa,Africa
-152,Niue,683,NU / NIU,2166,260,10.01 Million,NU ,NIU,162,Niue,570,Polynesia,,Oceania
-153,North Korea,850,KP / PRK,22912177,120540,28 Billion,KP ,PRK,63,Democratic People's Republic of Korea,408,Eastern Asia,,Asia
-154,Northern Mariana Islands,1-670,MP / MNP,53883,477,733 Million,MP ,MNP,165,Northern Mariana Islands,580,Micronesia,,Oceania
-155,Norway,47,NO / NOR,5009150,324220,515.8 Billion,NO ,NOR,166,Norway,578,Northern Europe,,Europe
-156,Oman,968,OM / OMN,2967717,212460,81.95 Billion,OM ,OMN,167,Oman,512,Western Asia,,Asia
-157,Pakistan,92,PK / PAK,184404791,803940,236.5 Billion,PK ,PAK,168,Pakistan,586,Southern Asia,,Asia
-158,Palau,680,PW / PLW,19907,458,221 Million,PW ,PLW,169,Palau,585,Micronesia,,Oceania
-159,Palestine,970,PS / PSE,3800000,5970,6.641 Billion,PS ,PSE,213,State of Palestine,275,Western Asia,,Asia
-160,Panama,507,PA / PAN,3410676,78200,40.62 Billion,PA ,PAN,170,Panama,591,Central America,Latin America and the Caribbean,North America
-161,Papua New Guinea,675,PG / PNG,6064515,462840,16.1 Billion,PG ,PNG,171,Papua New Guinea,598,Melanesia,,Oceania
-162,Paraguay,595,PY / PRY,6375830,406750,30.56 Billion,PY ,PRY,172,Paraguay,600,South America,Latin America and the Caribbean,South America
-163,Peru,51,PE / PER,29907003,1285220,210.3 Billion,PE ,PER,173,Peru,604,South America,Latin America and the Caribbean,South America
-164,Philippines,63,PH / PHL,99900177,300000,272.2 Billion,PH ,PHL,174,Philippines,608,South-eastern Asia,,Asia
-165,Pitcairn,64,PN / PCN,46,47,,PN ,PCN,175,Pitcairn,612,Polynesia,,Oceania
-166,Poland,48,PL / POL,38500000,312685,513.9 Billion,PL ,POL,176,Poland,616,Eastern Europe,,Europe
-167,Portugal,351,PT / PRT,10676000,92391,219.3 Billion,PT ,PRT,177,Portugal,620,Southern Europe,,Europe
-168,Puerto Rico,"1-787, 1-939",PR / PRI,3916632,9104,93.52 Billion,PR ,PRI,178,Puerto Rico,630,Caribbean,Latin America and the Caribbean,North America
-169,Qatar,974,QA / QAT,840926,11437,213.1 Billion,QA ,QAT,179,Qatar,634,Western Asia,,Asia
-170,Republic of the Congo,242,CG / COG,3039126,342000,14.25 Billion,CG ,COG,54,Congo,178,Middle Africa,Sub-Saharan Africa,Africa
-171,Reunion,262,RE / REU,776948,2517,,RE ,REU,182,Réunion,638,Eastern Africa,Sub-Saharan Africa,Africa
-172,Romania,40,RO / ROU,21959278,237500,188.9 Billion,RO ,ROU,183,Romania,642,Eastern Europe,,Europe
-173,Russia,7,RU / RUS,140702000,17100000,2.113 Trillion,RU ,RUS,184,Russian Federation,643,Eastern Europe,,Europe
-174,Rwanda,250,RW / RWA,11055976,26338,7.7 Billion,RW ,RWA,185,Rwanda,646,Eastern Africa,Sub-Saharan Africa,Africa
-175,Saint Barthelemy,590,BL / BLM,8450,21,,BL ,BLM,186,Saint Barthélemy,652,Caribbean,Latin America and the Caribbean,North America
-176,Saint Helena,290,SH / SHN,7460,410,,SH ,SHN,187,Saint Helena,654,Western Africa,Sub-Saharan Africa,Africa
-177,Saint Kitts and Nevis,1-869,KN / KNA,51134,261,767 Million,KN ,KNA,188,Saint Kitts and Nevis,659,Caribbean,Latin America and the Caribbean,North America
-178,Saint Lucia,1-758,LC / LCA,160922,616,1.377 Billion,LC ,LCA,189,Saint Lucia,662,Caribbean,Latin America and the Caribbean,North America
-179,Saint Martin,590,MF / MAF,35925,53,561.5 Million,MF ,MAF,190,Saint Martin (French Part),663,Caribbean,Latin America and the Caribbean,North America
-180,Saint Pierre and Miquelon,508,PM / SPM,7012,242,215.3 Million,PM ,SPM,191,Saint Pierre and Miquelon,666,Northern America,,North America
-181,Saint Vincent and the Grenadines,1-784,VC / VCT,104217,389,742 Million,VC ,VCT,192,Saint Vincent and the Grenadines,670,Caribbean,Latin America and the Caribbean,North America
-182,Samoa,685,WS / WSM,192001,2944,705 Million,WS ,WSM,193,Samoa,882,Polynesia,,Oceania
-183,San Marino,378,SM / SMR,31477,61,1.866 Billion,SM ,SMR,194,San Marino,674,Southern Europe,,Europe
-184,Sao Tome and Principe,239,ST / STP,175808,1001,311 Million,ST ,STP,195,Sao Tome and Principe,678,Middle Africa,Sub-Saharan Africa,Africa
-185,Saudi Arabia,966,SA / SAU,25731776,1960582,718.5 Billion,SA ,SAU,197,Saudi Arabia,682,Western Asia,,Asia
-186,Senegal,221,SN / SEN,12323252,196190,15.36 Billion,SN ,SEN,198,Senegal,686,Western Africa,Sub-Saharan Africa,Africa
-187,Serbia,381,RS / SRB,7344847,88361,43.68 Billion,RS ,SRB,199,Serbia,688,Southern Europe,,Europe
-188,Seychelles,248,SC / SYC,88340,455,1.271 Billion,SC ,SYC,200,Seychelles,690,Eastern Africa,Sub-Saharan Africa,Africa
-189,Sierra Leone,232,SL / SLE,5245695,71740,4.607 Billion,SL ,SLE,201,Sierra Leone,694,Western Africa,Sub-Saharan Africa,Africa
-190,Singapore,65,SG / SGP,4701069,693,295.7 Billion,SG ,SGP,202,Singapore,702,South-eastern Asia,,Asia
-191,Sint Maarten,1-721,SX / SXM,37429,34,794.7 Million,SX ,SXM,203,Sint Maarten (Dutch part),534,Caribbean,Latin America and the Caribbean,North America
-192,Slovakia,421,SK / SVK,5455000,48845,96.96 Billion,SK ,SVK,204,Slovakia,703,Eastern Europe,,Europe
-193,Slovenia,386,SI / SVN,2007000,20273,46.82 Billion,SI ,SVN,205,Slovenia,705,Southern Europe,,Europe
-194,Solomon Islands,677,SB / SLB,559198,28450,1.099 Billion,SB ,SLB,206,Solomon Islands,90,Melanesia,,Oceania
-195,Somalia,252,SO / SOM,10112453,637657,2.372 Billion,SO ,SOM,207,Somalia,706,Eastern Africa,Sub-Saharan Africa,Africa
-196,South Africa,27,ZA / ZAF,49000000,1219912,353.9 Billion,ZA ,ZAF,208,South Africa,710,Southern Africa,Sub-Saharan Africa,Africa
-197,South Korea,82,KR / KOR,48422644,98480,1.198 Trillion,KR ,KOR,180,Republic of Korea,410,Eastern Asia,,Asia
-198,South Sudan,211,SS / SSD,8260490,644329,11.77 Billion,SS ,SSD,210,South Sudan,728,Eastern Africa,Sub-Saharan Africa,Africa
-199,Spain,34,ES / ESP,46505963,504782,1.356 Trillion,ES ,ESP,211,Spain,724,Southern Europe,,Europe
-200,Sri Lanka,94,LK / LKA,21513990,65610,65.12 Billion,LK ,LKA,212,Sri Lanka,144,Southern Asia,,Asia
-201,Sudan,249,SD / SDN,35000000,1861484,52.5 Billion,SD ,SDN,214,Sudan,729,Northern Africa,,Africa
-202,Suriname,597,SR / SUR,492829,163270,5.009 Billion,SR ,SUR,215,Suriname,740,South America,Latin America and the Caribbean,South America
-203,Svalbard and Jan Mayen,47,SJ / SJM,2550,62049,,SJ ,SJM,216,Svalbard and Jan Mayen Islands,744,Northern Europe,,Europe
-204,Swaziland,268,SZ / SWZ,1354051,17363,3.807 Billion,SZ ,SWZ,75,Eswatini,748,Southern Africa,Sub-Saharan Africa,Africa
-205,Sweden,46,SE / SWE,9555893,449964,552 Billion,SE ,SWE,217,Sweden,752,Northern Europe,,Europe
-206,Switzerland,41,CH / CHE,7581000,41290,646.2 Billion,CH ,CHE,218,Switzerland,756,Western Europe,,Europe
-207,Syria,963,SY / SYR,22198110,185180,64.7 Billion,SY ,SYR,219,Syrian Arab Republic,760,Western Asia,,Asia
-208,Tajikistan,992,TJ / TJK,7487489,143100,8.513 Billion,TJ ,TJK,220,Tajikistan,762,Central Asia,,Asia
-209,Tanzania,255,TZ / TZA,41892895,945087,31.94 Billion,TZ ,TZA,236,United Republic of Tanzania,834,Eastern Africa,Sub-Saharan Africa,Africa
-210,Thailand,66,TH / THA,67089500,514000,400.9 Billion,TH ,THA,221,Thailand,764,South-eastern Asia,,Asia
-211,Togo,228,TG / TGO,6587239,56785,4.299 Billion,TG ,TGO,223,Togo,768,Western Africa,Sub-Saharan Africa,Africa
-212,Tokelau,690,TK / TKL,1466,10,,TK ,TKL,224,Tokelau,772,Polynesia,,Oceania
-213,Tonga,676,TO / TON,122580,748,477 Million,TO ,TON,225,Tonga,776,Polynesia,,Oceania
-214,Trinidad and Tobago,1-868,TT / TTO,1228691,5128,27.13 Billion,TT ,TTO,226,Trinidad and Tobago,780,Caribbean,Latin America and the Caribbean,North America
-215,Tunisia,216,TN / TUN,10589025,163610,48.38 Billion,TN ,TUN,227,Tunisia,788,Northern Africa,,Africa
-216,Turkey,90,TR / TUR,77804122,780580,821.8 Billion,TR ,TUR,228,Turkey,792,Western Asia,,Asia
-217,Turkmenistan,993,TM / TKM,4940916,488100,40.56 Billion,TM ,TKM,229,Turkmenistan,795,Central Asia,,Asia
-218,Turks and Caicos Islands,1-649,TC / TCA,20556,430,,TC ,TCA,230,Turks and Caicos Islands,796,Caribbean,Latin America and the Caribbean,North America
-219,Tuvalu,688,TV / TUV,10472,26,38 Million,TV ,TUV,231,Tuvalu,798,Polynesia,,Oceania
-220,U.S. Virgin Islands,1-340,VI / VIR,108708,352,,VI ,VIR,239,United States Virgin Islands,850,Caribbean,Latin America and the Caribbean,North America
-221,Uganda,256,UG / UGA,33398682,236040,22.6 Billion,UG ,UGA,232,Uganda,800,Eastern Africa,Sub-Saharan Africa,Africa
-222,Ukraine,380,UA / UKR,45415596,603700,175.5 Billion,UA ,UKR,233,Ukraine,804,Eastern Europe,,Europe
-223,United Arab Emirates,971,AE / ARE,4975593,82880,390 Billion,AE ,ARE,234,United Arab Emirates,784,Western Asia,,Asia
-224,United Kingdom,44,GB / GBR,62348447,244820,2.49 Trillion,GB ,GBR,235,United Kingdom of Great Britain and Northern Ireland,826,Northern Europe,,Europe
-225,United States,1,US / USA,310232863,9629091,16.72 Trillion,US ,USA,238,United States of America,840,Northern America,,North America
-226,Uruguay,598,UY / URY,3477000,176220,57.11 Billion,UY ,URY,240,Uruguay,858,South America,Latin America and the Caribbean,South America
-227,Uzbekistan,998,UZ / UZB,27865738,447400,55.18 Billion,UZ ,UZB,241,Uzbekistan,860,Central Asia,,Asia
-228,Vanuatu,678,VU / VUT,221552,12200,828 Million,VU ,VUT,242,Vanuatu,548,Melanesia,,Oceania
-229,Vatican,379,VA / VAT,921,0,,VA ,VAT,103,Holy See,336,Southern Europe,,Europe
-230,Venezuela,58,VE / VEN,27223228,912050,367.5 Billion,VE ,VEN,243,Venezuela (Bolivarian Republic of),862,South America,Latin America and the Caribbean,South America
-231,Vietnam,84,VN / VNM,89571130,329560,170 Billion,VN ,VNM,244,Viet Nam,704,South-eastern Asia,,Asia
-232,Wallis and Futuna,681,WF / WLF,16025,274,,WF ,WLF,245,Wallis and Futuna Islands,876,Polynesia,,Oceania
-233,Western Sahara,212,EH / ESH,273008,266000,,EH ,ESH,246,Western Sahara,732,Northern Africa,,Africa
-234,Yemen,967,YE / YEM,23495361,527970,43.89 Billion,YE ,YEM,247,Yemen,887,Western Asia,,Asia
-235,Zambia,260,ZM / ZMB,13460305,752614,22.24 Billion,ZM ,ZMB,248,Zambia,894,Eastern Africa,Sub-Saharan Africa,Africa
-236,Zimbabwe,263,ZW / ZWE,11651858,390580,10.48 Billion,ZW ,ZWE,249,Zimbabwe,716,Eastern Africa,Sub-Saharan Africa,Africa
+,COUNTRY,COUNTRY VARIATIONS,ISO2,ISO3,REGION_1,REGION_2,CONTINENT
+0,Afghanistan,Afghanistan,AF,AFG,Southern Asia,,Asia
+1,Albania,Albania,AL,ALB,Southern Europe,,Europe
+2,Algeria,Algeria,DZ,DZA,Northern Africa,,Africa
+3,American Samoa,American Samoa,AS,ASM,Polynesia,,Oceania
+4,Andorra,Andorra,AD,AND,Southern Europe,,Europe
+5,Angola,Angola,AO,AGO,Middle Africa,Sub-Saharan Africa,Africa
+6,Anguilla,Anguilla,AI,AIA,Caribbean,Latin America and the Caribbean,North America
+7,Antarctica,Antarctica,AQ,ATA,Antarctica,,Antarctica
+8,Antigua and Barbuda,Antigua and Barbuda,AG,ATG,Caribbean,Latin America and the Caribbean,North America
+9,Argentina,Argentina,AR,ARG,South America,Latin America and the Caribbean,South America
+10,Armenia,Armenia,AM,ARM,Western Asia,,Asia
+11,Aruba,Aruba,AW,ABW,Caribbean,Latin America and the Caribbean,North America
+12,Australia,Australia,AU,AUS,Australia and New Zealand,,Oceania
+13,Austria,Austria,AT,AUT,Western Europe,,Europe
+14,Azerbaijan,Azerbaijan,AZ,AZE,Western Asia,,Asia
+15,Bahamas,Bahamas,BS,BHS,Caribbean,Latin America and the Caribbean,North America
+16,Bahrain,Bahrain,BH,BHR,Western Asia,,Asia
+17,Bangladesh,Bangladesh,BD,BGD,Southern Asia,,Asia
+18,Barbados,Barbados,BB,BRB,Caribbean,Latin America and the Caribbean,North America
+19,Belarus,Belarus,BY,BLR,Eastern Europe,,Europe
+20,Belgium,Belgium,BE,BEL,Western Europe,,Europe
+21,Belize,Belize,BZ,BLZ,Central America,Latin America and the Caribbean,North America
+22,Benin,Benin,BJ,BEN,Western Africa,Sub-Saharan Africa,Africa
+23,Bermuda,Bermuda,BM,BMU,Northern America,,North America
+24,Bhutan,Bhutan,BT,BTN,Southern Asia,,Asia
+25,Bolivia,Bolivia (Plurinational State of),BO,BOL,South America,Latin America and the Caribbean,South America
+26,Bosnia and Herzegovina,Bosnia and Herzegovina,BA,BIH,Southern Europe,,Europe
+27,Botswana,Botswana,BW,BWA,Southern Africa,Sub-Saharan Africa,Africa
+28,Brazil,Brazil,BR,BRA,South America,Latin America and the Caribbean,South America
+29,British Indian Ocean Territory,British Indian Ocean Territory,IO,IOT,Eastern Africa,Sub-Saharan Africa,Africa
+30,British Virgin Islands,British Virgin Islands,VG,VGB,Caribbean,Latin America and the Caribbean,North America
+31,Brunei,Brunei Darussalam,BN,BRN,South-eastern Asia,,Asia
+32,Bulgaria,Bulgaria,BG,BGR,Eastern Europe,,Europe
+33,Burkina Faso,Burkina Faso,BF,BFA,Western Africa,Sub-Saharan Africa,Africa
+34,Burundi,Burundi,BI,BDI,Eastern Africa,Sub-Saharan Africa,Africa
+35,Cambodia,Cambodia,KH,KHM,South-eastern Asia,,Asia
+36,Cameroon,Cameroon,CM,CMR,Middle Africa,Sub-Saharan Africa,Africa
+37,Canada,Canada,CA,CAN,Northern America,,North America
+38,Cape Verde,Cabo Verde,CV,CPV,Western Africa,Sub-Saharan Africa,Africa
+39,Cayman Islands,Cayman Islands,KY,CYM,Caribbean,Latin America and the Caribbean,North America
+40,Central African Republic,Central African Republic,CF,CAF,Middle Africa,Sub-Saharan Africa,Africa
+41,Chad,Chad,TD,TCD,Middle Africa,Sub-Saharan Africa,Africa
+42,Chile,Chile,CL,CHL,South America,Latin America and the Caribbean,South America
+43,China,China,CN,CHN,Eastern Asia,,Asia
+44,Christmas Island,Christmas Island,CX,CXR,Australia and New Zealand,,Oceania
+45,Cocos Islands,Cocos (Keeling) Islands,CC,CCK,Australia and New Zealand,,Oceania
+46,Colombia,Colombia,CO,COL,South America,Latin America and the Caribbean,South America
+47,Comoros,Comoros,KM,COM,Eastern Africa,Sub-Saharan Africa,Africa
+48,Cook Islands,Cook Islands,CK,COK,Polynesia,,Oceania
+49,Costa Rica,Costa Rica,CR,CRI,Central America,Latin America and the Caribbean,North America
+50,Croatia,Croatia,HR,HRV,Southern Europe,,Europe
+51,Cuba,Cuba,CU,CUB,Caribbean,Latin America and the Caribbean,North America
+52,Curacao,Curaçao,CW,CUW,Caribbean,Latin America and the Caribbean,North America
+53,Cyprus,Cyprus,CY,CYP,Western Asia,,Asia
+54,Czech Republic,Czechia,CZ,CZE,Eastern Europe,,Europe
+55,Democratic Republic of the Congo,Democratic Republic of the Congo,CD,COD,Middle Africa,Sub-Saharan Africa,Africa
+56,Denmark,Denmark,DK,DNK,Northern Europe,,Europe
+57,Djibouti,Djibouti,DJ,DJI,Eastern Africa,Sub-Saharan Africa,Africa
+58,Dominica,Dominica,DM,DMA,Caribbean,Latin America and the Caribbean,North America
+59,Dominican Republic,Dominican Republic,DO,DOM,Caribbean,Latin America and the Caribbean,North America
+60,East Timor,Timor-Leste,TL,TLS,South-eastern Asia,,Asia
+61,Ecuador,Ecuador,EC,ECU,South America,Latin America and the Caribbean,South America
+62,Egypt,Egypt,EG,EGY,Northern Africa,,Africa
+63,El Salvador,El Salvador,SV,SLV,Central America,Latin America and the Caribbean,North America
+64,Equatorial Guinea,Equatorial Guinea,GQ,GNQ,Middle Africa,Sub-Saharan Africa,Africa
+65,Eritrea,Eritrea,ER,ERI,Eastern Africa,Sub-Saharan Africa,Africa
+66,Estonia,Estonia,EE,EST,Northern Europe,,Europe
+67,Ethiopia,Ethiopia,ET,ETH,Eastern Africa,Sub-Saharan Africa,Africa
+68,Falkland Islands,Falkland Islands (Malvinas),FK,FLK,South America,Latin America and the Caribbean,South America
+69,Faroe Islands,Faroe Islands,FO,FRO,Northern Europe,,Europe
+70,Fiji,Fiji,FJ,FJI,Melanesia,,Oceania
+71,Finland,Finland,FI,FIN,Northern Europe,,Europe
+72,France,France,FR,FRA,Western Europe,,Europe
+73,French Polynesia,French Polynesia,PF,PYF,Polynesia,,Oceania
+74,Gabon,Gabon,GA,GAB,Middle Africa,Sub-Saharan Africa,Africa
+75,Gambia,Gambia,GM,GMB,Western Africa,Sub-Saharan Africa,Africa
+76,Georgia,Georgia,GE,GEO,Western Asia,,Asia
+77,Germany,Germany,DE,DEU,Western Europe,,Europe
+78,Ghana,Ghana,GH,GHA,Western Africa,Sub-Saharan Africa,Africa
+79,Gibraltar,Gibraltar,GI,GIB,Southern Europe,,Europe
+80,Greece,Greece,GR,GRC,Southern Europe,,Europe
+81,Greenland,Greenland,GL,GRL,Northern America,,North America
+82,Grenada,Grenada,GD,GRD,Caribbean,Latin America and the Caribbean,North America
+83,Guam,Guam,GU,GUM,Micronesia,,Oceania
+84,Guatemala,Guatemala,GT,GTM,Central America,Latin America and the Caribbean,North America
+85,Guernsey,Guernsey,GG,GGY,Northern Europe,Channel Islands,Europe
+86,Guinea,Guinea,GN,GIN,Western Africa,Sub-Saharan Africa,Africa
+87,Guinea-Bissau,Guinea-Bissau,GW,GNB,Western Africa,Sub-Saharan Africa,Africa
+88,Guyana,Guyana,GY,GUY,South America,Latin America and the Caribbean,South America
+89,Haiti,Haiti,HT,HTI,Caribbean,Latin America and the Caribbean,North America
+90,Honduras,Honduras,HN,HND,Central America,Latin America and the Caribbean,North America
+91,Hong Kong,"China, Hong Kong Special Administrative Region",HK,HKG,Eastern Asia,,Asia
+92,Hungary,Hungary,HU,HUN,Eastern Europe,,Europe
+93,Iceland,Iceland,IS,ISL,Northern Europe,,Europe
+94,India,India,IN,IND,Southern Asia,,Asia
+95,Indonesia,Indonesia,ID,IDN,South-eastern Asia,,Asia
+96,Iran,Iran (Islamic Republic of),IR,IRN,Southern Asia,,Asia
+97,Iraq,Iraq,IQ,IRQ,Western Asia,,Asia
+98,Ireland,Ireland,IE,IRL,Northern Europe,,Europe
+99,Isle of Man,Isle of Man,IM,IMN,Northern Europe,,Europe
+100,Israel,Israel,IL,ISR,Western Asia,,Asia
+101,Italy,Italy,IT,ITA,Southern Europe,,Europe
+102,Ivory Coast,Côte d’Ivoire,CI,CIV,Western Africa,Sub-Saharan Africa,Africa
+103,Jamaica,Jamaica,JM,JAM,Caribbean,Latin America and the Caribbean,North America
+104,Japan,Japan,JP,JPN,Eastern Asia,,Asia
+105,Jersey,Jersey,JE,JEY,Northern Europe,Channel Islands,Europe
+106,Jordan,Jordan,JO,JOR,Western Asia,,Asia
+107,Kazakhstan,Kazakhstan,KZ,KAZ,Central Asia,,Asia
+108,Kenya,Kenya,KE,KEN,Eastern Africa,Sub-Saharan Africa,Africa
+109,Kiribati,Kiribati,KI,KIR,Micronesia,,Oceania
+110,Kuwait,Kuwait,KW,KWT,Western Asia,,Asia
+111,Kyrgyzstan,Kyrgyzstan,KG,KGZ,Central Asia,,Asia
+112,Laos,Lao People's Democratic Republic,LA,LAO,South-eastern Asia,,Asia
+113,Latvia,Latvia,LV,LVA,Northern Europe,,Europe
+114,Lebanon,Lebanon,LB,LBN,Western Asia,,Asia
+115,Lesotho,Lesotho,LS,LSO,Southern Africa,Sub-Saharan Africa,Africa
+116,Liberia,Liberia,LR,LBR,Western Africa,Sub-Saharan Africa,Africa
+117,Libya,Libya,LY,LBY,Northern Africa,,Africa
+118,Liechtenstein,Liechtenstein,LI,LIE,Western Europe,,Europe
+119,Lithuania,Lithuania,LT,LTU,Northern Europe,,Europe
+120,Luxembourg,Luxembourg,LU,LUX,Western Europe,,Europe
+121,Macau,"China, Macao Special Administrative Region",MO,MAC,Eastern Asia,,Asia
+122,Macedonia,North Macedonia,MK,MKD,Southern Europe,,Europe
+123,Madagascar,Madagascar,MG,MDG,Eastern Africa,Sub-Saharan Africa,Africa
+124,Malawi,Malawi,MW,MWI,Eastern Africa,Sub-Saharan Africa,Africa
+125,Malaysia,Malaysia,MY,MYS,South-eastern Asia,,Asia
+126,Maldives,Maldives,MV,MDV,Southern Asia,,Asia
+127,Mali,Mali,ML,MLI,Western Africa,Sub-Saharan Africa,Africa
+128,Malta,Malta,MT,MLT,Southern Europe,,Europe
+129,Marshall Islands,Marshall Islands,MH,MHL,Micronesia,,Oceania
+130,Mauritania,Mauritania,MR,MRT,Western Africa,Sub-Saharan Africa,Africa
+131,Mauritius,Mauritius,MU,MUS,Eastern Africa,Sub-Saharan Africa,Africa
+132,Mayotte,Mayotte,YT,MYT,Eastern Africa,Sub-Saharan Africa,Africa
+133,Mexico,Mexico,MX,MEX,Central America,Latin America and the Caribbean,North America
+134,Micronesia,Micronesia (Federated States of),FM,FSM,Micronesia,,Oceania
+135,Moldova,Republic of Moldova,MD,MDA,Eastern Europe,,Europe
+136,Monaco,Monaco,MC,MCO,Western Europe,,Europe
+137,Mongolia,Mongolia,MN,MNG,Eastern Asia,,Asia
+138,Montenegro,Montenegro,ME,MNE,Southern Europe,,Europe
+139,Montserrat,Montserrat,MS,MSR,Caribbean,Latin America and the Caribbean,North America
+140,Morocco,Morocco,MA,MAR,Northern Africa,,Africa
+141,Mozambique,Mozambique,MZ,MOZ,Eastern Africa,Sub-Saharan Africa,Africa
+142,Myanmar,Myanmar,MM,MMR,South-eastern Asia,,Asia
+143,Namibia,Namibia,NA,NAM,Southern Africa,Sub-Saharan Africa,Africa
+144,Nauru,Nauru,NR,NRU,Micronesia,,Oceania
+145,Nepal,Nepal,NP,NPL,Southern Asia,,Asia
+146,Netherlands,Netherlands,NL,NLD,Western Europe,,Europe
+147,New Caledonia,New Caledonia,NC,NCL,Melanesia,,Oceania
+148,New Zealand,New Zealand,NZ,NZL,Australia and New Zealand,,Oceania
+149,Nicaragua,Nicaragua,NI,NIC,Central America,Latin America and the Caribbean,North America
+150,Niger,Niger,NE,NER,Western Africa,Sub-Saharan Africa,Africa
+151,Nigeria,Nigeria,NG,NGA,Western Africa,Sub-Saharan Africa,Africa
+152,Niue,Niue,NU,NIU,Polynesia,,Oceania
+153,North Korea,Democratic People's Republic of Korea,KP,PRK,Eastern Asia,,Asia
+154,Northern Mariana Islands,Northern Mariana Islands,MP,MNP,Micronesia,,Oceania
+155,Norway,Norway,NO,NOR,Northern Europe,,Europe
+156,Oman,Oman,OM,OMN,Western Asia,,Asia
+157,Pakistan,Pakistan,PK,PAK,Southern Asia,,Asia
+158,Palau,Palau,PW,PLW,Micronesia,,Oceania
+159,Palestine,State of Palestine,PS,PSE,Western Asia,,Asia
+160,Panama,Panama,PA,PAN,Central America,Latin America and the Caribbean,North America
+161,Papua New Guinea,Papua New Guinea,PG,PNG,Melanesia,,Oceania
+162,Paraguay,Paraguay,PY,PRY,South America,Latin America and the Caribbean,South America
+163,Peru,Peru,PE,PER,South America,Latin America and the Caribbean,South America
+164,Philippines,Philippines,PH,PHL,South-eastern Asia,,Asia
+165,Pitcairn,Pitcairn,PN,PCN,Polynesia,,Oceania
+166,Poland,Poland,PL,POL,Eastern Europe,,Europe
+167,Portugal,Portugal,PT,PRT,Southern Europe,,Europe
+168,Puerto Rico,Puerto Rico,PR,PRI,Caribbean,Latin America and the Caribbean,North America
+169,Qatar,Qatar,QA,QAT,Western Asia,,Asia
+170,Republic of the Congo,Congo,CG,COG,Middle Africa,Sub-Saharan Africa,Africa
+171,Reunion,Réunion,RE,REU,Eastern Africa,Sub-Saharan Africa,Africa
+172,Romania,Romania,RO,ROU,Eastern Europe,,Europe
+173,Russia,Russian Federation,RU,RUS,Eastern Europe,,Europe
+174,Rwanda,Rwanda,RW,RWA,Eastern Africa,Sub-Saharan Africa,Africa
+175,Saint Barthelemy,Saint Barthélemy,BL,BLM,Caribbean,Latin America and the Caribbean,North America
+176,Saint Helena,Saint Helena,SH,SHN,Western Africa,Sub-Saharan Africa,Africa
+177,Saint Kitts and Nevis,Saint Kitts and Nevis,KN,KNA,Caribbean,Latin America and the Caribbean,North America
+178,Saint Lucia,Saint Lucia,LC,LCA,Caribbean,Latin America and the Caribbean,North America
+179,Saint Martin,Saint Martin (French Part),MF,MAF,Caribbean,Latin America and the Caribbean,North America
+180,Saint Pierre and Miquelon,Saint Pierre and Miquelon,PM,SPM,Northern America,,North America
+181,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,VC,VCT,Caribbean,Latin America and the Caribbean,North America
+182,Samoa,Samoa,WS,WSM,Polynesia,,Oceania
+183,San Marino,San Marino,SM,SMR,Southern Europe,,Europe
+184,Sao Tome and Principe,Sao Tome and Principe,ST,STP,Middle Africa,Sub-Saharan Africa,Africa
+185,Saudi Arabia,Saudi Arabia,SA,SAU,Western Asia,,Asia
+186,Senegal,Senegal,SN,SEN,Western Africa,Sub-Saharan Africa,Africa
+187,Serbia,Serbia,RS,SRB,Southern Europe,,Europe
+188,Seychelles,Seychelles,SC,SYC,Eastern Africa,Sub-Saharan Africa,Africa
+189,Sierra Leone,Sierra Leone,SL,SLE,Western Africa,Sub-Saharan Africa,Africa
+190,Singapore,Singapore,SG,SGP,South-eastern Asia,,Asia
+191,Sint Maarten,Sint Maarten (Dutch part),SX,SXM,Caribbean,Latin America and the Caribbean,North America
+192,Slovakia,Slovakia,SK,SVK,Eastern Europe,,Europe
+193,Slovenia,Slovenia,SI,SVN,Southern Europe,,Europe
+194,Solomon Islands,Solomon Islands,SB,SLB,Melanesia,,Oceania
+195,Somalia,Somalia,SO,SOM,Eastern Africa,Sub-Saharan Africa,Africa
+196,South Africa,South Africa,ZA,ZAF,Southern Africa,Sub-Saharan Africa,Africa
+197,South Korea,Republic of Korea,KR,KOR,Eastern Asia,,Asia
+198,South Sudan,South Sudan,SS,SSD,Eastern Africa,Sub-Saharan Africa,Africa
+199,Spain,Spain,ES,ESP,Southern Europe,,Europe
+200,Sri Lanka,Sri Lanka,LK,LKA,Southern Asia,,Asia
+201,Sudan,Sudan,SD,SDN,Northern Africa,,Africa
+202,Suriname,Suriname,SR,SUR,South America,Latin America and the Caribbean,South America
+203,Svalbard and Jan Mayen,Svalbard and Jan Mayen Islands,SJ,SJM,Northern Europe,,Europe
+204,Swaziland,Eswatini,SZ,SWZ,Southern Africa,Sub-Saharan Africa,Africa
+205,Sweden,Sweden,SE,SWE,Northern Europe,,Europe
+206,Switzerland,Switzerland,CH,CHE,Western Europe,,Europe
+207,Syria,Syrian Arab Republic,SY,SYR,Western Asia,,Asia
+208,Tajikistan,Tajikistan,TJ,TJK,Central Asia,,Asia
+209,Tanzania,United Republic of Tanzania,TZ,TZA,Eastern Africa,Sub-Saharan Africa,Africa
+210,Thailand,Thailand,TH,THA,South-eastern Asia,,Asia
+211,Togo,Togo,TG,TGO,Western Africa,Sub-Saharan Africa,Africa
+212,Tokelau,Tokelau,TK,TKL,Polynesia,,Oceania
+213,Tonga,Tonga,TO,TON,Polynesia,,Oceania
+214,Trinidad and Tobago,Trinidad and Tobago,TT,TTO,Caribbean,Latin America and the Caribbean,North America
+215,Tunisia,Tunisia,TN,TUN,Northern Africa,,Africa
+216,Turkey,Turkey,TR,TUR,Western Asia,,Asia
+217,Turkmenistan,Turkmenistan,TM,TKM,Central Asia,,Asia
+218,Turks and Caicos Islands,Turks and Caicos Islands,TC,TCA,Caribbean,Latin America and the Caribbean,North America
+219,Tuvalu,Tuvalu,TV,TUV,Polynesia,,Oceania
+220,U.S. Virgin Islands,United States Virgin Islands,VI,VIR,Caribbean,Latin America and the Caribbean,North America
+221,Uganda,Uganda,UG,UGA,Eastern Africa,Sub-Saharan Africa,Africa
+222,Ukraine,Ukraine,UA,UKR,Eastern Europe,,Europe
+223,United Arab Emirates,United Arab Emirates,AE,ARE,Western Asia,,Asia
+224,United Kingdom,United Kingdom of Great Britain and Northern Ireland,GB,GBR,Northern Europe,,Europe
+225,United States,United States of America,US,USA,Northern America,,North America
+226,Uruguay,Uruguay,UY,URY,South America,Latin America and the Caribbean,South America
+227,Uzbekistan,Uzbekistan,UZ,UZB,Central Asia,,Asia
+228,Vanuatu,Vanuatu,VU,VUT,Melanesia,,Oceania
+229,Vatican,Holy See,VA,VAT,Southern Europe,,Europe
+230,Venezuela,Venezuela (Bolivarian Republic of),VE,VEN,South America,Latin America and the Caribbean,South America
+231,Vietnam,Viet Nam,VN,VNM,South-eastern Asia,,Asia
+232,Wallis and Futuna,Wallis and Futuna Islands,WF,WLF,Polynesia,,Oceania
+233,Western Sahara,Western Sahara,EH,ESH,Northern Africa,,Africa
+234,Yemen,Yemen,YE,YEM,Western Asia,,Asia
+235,Zambia,Zambia,ZM,ZMB,Eastern Africa,Sub-Saharan Africa,Africa
+236,Zimbabwe,Zimbabwe,ZW,ZWE,Eastern Africa,Sub-Saharan Africa,Africa
