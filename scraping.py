@@ -57,4 +57,4 @@ df = df[
     ]
 
 
-df.to_csv(os.path.join(BASE_DIR, 'country_table.csv'))
+df.to_csv(os.path.join(BASE_DIR, 'data', 'country_table.csv'))

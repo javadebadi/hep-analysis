@@ -12,9 +12,8 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE','hep_analysis.settings')
 django.setup()
 
 import pandas as pd
-df = pd.read_csv("country_table.csv")
+df = pd.read_csv("data/country_table.csv")
 df_dict = df.to_dict(orient='records')
-print(df_dict)
 
 from inspirehep.models import Country
 for country_dict in df_dict:
@@ -22,11 +21,12 @@ for country_dict in df_dict:
         name = country_dict.get("COUNTRY")
         iso2 = country_dict.get("ISO2")
         iso3 = country_dict.get("ISO3")
-        Country.objects.get_or_create(
+        country, created = Country.objects.get_or_create(
             name=name,
             iso2=iso2,
             iso3=iso3,
         )
+        country.save()
     except Exception as e:
         logging.error(str(e))
         logging.info("country_dict = ")
