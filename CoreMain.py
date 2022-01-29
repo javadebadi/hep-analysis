@@ -18,6 +18,7 @@ from sqlalchemy.orm import (
 from hep_analysis.settings import (
     DB_CONNECTION_STRING
 )
+import json
 
 engine = create_engine(DB_CONNECTION_STRING, echo=True, future = True)
 
@@ -78,7 +79,24 @@ JobFileds_table = Table(
     Column('field_id', ForeignKey('Fields.field_id'), primary_key=True),
 )
 
+Authors_table = Table(
+        "Authors",
+    meta_HEP,
+    Column('Author_id', Integer, primary_key=True),
+    Column('Author_name',String(30)),
+)
 
+with open('authors.json') as f:
+    data = json.load(f)
+
+
+
+# it is already created. 
+with engine.connect() as conn:
+    for A_id in data:
+        query = insert(Authors_table).values(Author_id= A_id, Author_name= data[A_id]['name']['value'])
+        result = conn.execute(query)
+    conn.commit()
 
 
 
