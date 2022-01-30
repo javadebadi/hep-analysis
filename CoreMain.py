@@ -92,13 +92,12 @@ with open('authors.json') as f:
 
 
 # it is already created. 
-with engine.connect() as conn:
-    for A_id in data:
-        query = insert(Authors_table).values(Author_id= A_id, Author_name= data[A_id]['name']['value'])
-        result = conn.execute(query)
-    conn.commit()
-
 
 
 if __name__ == '__main__':
     meta_HEP.create_all(engine)
+    with engine.connect() as conn:
+        for A_id in data:
+            query = insert(Authors_table).values(Author_id= A_id, Author_name= data[A_id]['name']['value'])
+            result = conn.execute(query)
+        conn.commit()
