@@ -20,7 +20,7 @@ from hep_analysis.settings import (
     DB_CONNECTION_STRING
 )
 
-from CoreMain import (
+from tables import (
     Job_table,
     Field_table,
     Rank_table,
