@@ -1,32 +1,24 @@
 from sqlalchemy import (
     create_engine, 
-    text, 
     Table, 
     Column, 
     Integer, 
     String, 
     MetaData,
-    ForeignKey,
-    insert, 
-    select
+    ForeignKey
 )
-from sqlalchemy.orm import (
-    declarative_base, 
-    relationship
-)
+
 
 from hep_analysis.settings import (
     DB_CONNECTION_STRING
 )
-import json
 
-engine = create_engine(DB_CONNECTION_STRING, echo=True, future = True)
 
-conn = engine.connect() 
+engine = create_engine(DB_CONNECTION_STRING, echo=False, future=True)
 
 meta_HEP = MetaData()
 
-#Creatinf Tables using Core commands: 
+
 Job_table = Table(
         "Jobs",
     meta_HEP,
@@ -86,18 +78,29 @@ Authors_table = Table(
     Column('Author_name',String(30)),
 )
 
-with open('authors.json') as f:
-    data = json.load(f)
+Papers_table = Table(
+        "Papers",
+    meta_HEP,
+    Column('Paper_id', Integer, primary_key=True),
+    Column('Paper_title',String),
+)
+
+Authors_Papers_table = Table(
+        "Authors_Papers",
+    meta_HEP,
+    Column('author_id', ForeignKey('Authors.Author_id'), primary_key=True),
+    Column('paper_id', ForeignKey('Papers.Paper_id'), primary_key=True),
+)
 
 
-
-# it is already created. 
+Authors_Papers_table_new = Table(
+        "Authors_Papers_new",
+    meta_HEP,
+    Column('author_id', String(50), nullable=True),
+    Column('paper_id', String(10), nullable=False),
+)
 
 
 if __name__ == '__main__':
     meta_HEP.create_all(engine)
-    with engine.connect() as conn:
-        for A_id in data:
-            query = insert(Authors_table).values(Author_id= A_id, Author_name= data[A_id]['name']['value'])
-            result = conn.execute(query)
-        conn.commit()
+    
