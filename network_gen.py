@@ -26,17 +26,22 @@ def net_save(name, suffix):
     print(f"Network with {ContributionGraph.number_of_edges()} edges and {ContributionGraph.number_of_nodes()} nodes is created") 
 
 
-def data_inserting_one(onedata, up_limit_authors = 5):
+def net_gen(onedata, up_limit_authors):
     number_of_data_wout_author = 0
     number_of_data_wout_InspireID = 0
     number_of_data_wout_a_ids = 0
+    number_of_papers_Mthan_limit = 0
+    correct_records = 0
 
     for item in onedata:
         # pid = item["id"]
         try:
             alist = item["metadata"]["authors"]
             if len(alist) >= up_limit_authors:
+                number_of_papers_Mthan_limit += 1
                 continue
+
+
 
             author_list = []
             for author in alist:
@@ -46,6 +51,7 @@ def data_inserting_one(onedata, up_limit_authors = 5):
                 author_list.append(adata)
             
             edge_gen(author_list)
+            correct_records += 1
 
         except KeyError as e:
             if str(e) == "'authors'":
@@ -61,26 +67,31 @@ def data_inserting_one(onedata, up_limit_authors = 5):
             else:
                 print(f"we have problem {str(e)}")        
 
-    return number_of_data_wout_author, number_of_data_wout_a_ids, number_of_data_wout_InspireID
+    return number_of_data_wout_author, number_of_data_wout_a_ids, number_of_data_wout_InspireID, number_of_papers_Mthan_limit, correct_records
 
 
-def net_construct():
+def net_construct(uplimit):
     total_na = 0
     total_ni = 0
     total_niI =0 
+    total_mtl = 0
+    total_cr = 0
 
     print(f"We have Network with {ContributionGraph.number_of_edges()} edges and {ContributionGraph.number_of_nodes()} nodes")
     for n in range(length_files):
-        na, ni, niI = data_inserting_one(data_one_gen(n))
+        na, ni, niI, nml, cr= net_gen(data_one_gen(n),uplimit)
         total_na += na
         total_ni += ni
         total_niI += niI
+        total_mtl += nml
+        total_cr += cr
     print(f"we had {total_na} record without author, {total_ni} without id and {total_niI} without InspirehepID!")
+    print(f"we also had {total_cr} record with {total_mtl} record with more than {uplimit} authors")
     
      
 if __name__ == "__main__":
-    net_construct()
-    net_save("Contributaion_graph","graphml")
+    net_construct(100)
+    # net_save("Contributaion_graph","graphml")
 
 
 
