@@ -1,6 +1,5 @@
 import networkx as nx
 import os
-from pathlib import Path
 from hep_analysis.settings import BASE_DIR
 from itertools import combinations
 from data.data_loading import (
@@ -12,11 +11,14 @@ from data.data_loading import (
 ContributionGraph = nx.Graph()
 
 def edge_gen(a_list):
-    for item in combinations(a_list, 2):
-        if ContributionGraph.has_edge(*item): # maybe we should use multigraph
-            ContributionGraph[item[0]][item[1]]['weight'] += 1
-        else:
-            ContributionGraph.add_edge(*item, weight = 1)
+    if len(a_list) == 1:
+        ContributionGraph.add_node(*a_list)
+    else:
+        for item in combinations(a_list, 2):
+            if ContributionGraph.has_edge(*item): # maybe we should use multigraph
+                ContributionGraph[item[0]][item[1]]['weight'] += 1
+            else:
+                ContributionGraph.add_edge(*item, weight = 1)
 
 
     
@@ -79,18 +81,19 @@ def net_construct(uplimit):
 
     print(f"We have Network with {ContributionGraph.number_of_edges()} edges and {ContributionGraph.number_of_nodes()} nodes")
     for n in range(length_files):
-        na, ni, niI, nml, cr= net_gen(data_one_gen(n),uplimit)
+        na, ni, niI, nml, cr = net_gen(data_one_gen(n),uplimit)
         total_na += na
         total_ni += ni
         total_niI += niI
         total_mtl += nml
         total_cr += cr
+    print(f"Done! We have Network with {ContributionGraph.number_of_edges()} edges and {ContributionGraph.number_of_nodes()} nodes")
     print(f"we had {total_na} record without author, {total_ni} without id and {total_niI} without InspirehepID!")
     print(f"we also had {total_cr} record with {total_mtl} record with more than {uplimit} authors")
     
      
 if __name__ == "__main__":
-    net_construct(100)
+    net_construct(50)
     # net_save("Contributaion_graph","graphml")
 
 
