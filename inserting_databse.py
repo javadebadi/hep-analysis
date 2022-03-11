@@ -112,8 +112,10 @@ def inserting_one():
         data_inserting_one(data_one_gen(n))
 
 
+
 if __name__ == "__main__":
-    inserting_one()
+    pass
+    #inserting_one()
     
      
 
